@@ -1,0 +1,56 @@
+{
+     "button":
+     {
+         "misc":
+         {
+             "border_width": "0",
+             "shadow_width": "20"
+         }
+    },
+    "@buttons":
+     {
+         "colors": {
+             "normal_bg": "#00000000",
+             "hover_bg": "#FF0000FF"
+         },
+         "misc":
+         {
+             "shadow_width": "20",
+             "shape": "rounded_rectangle"
+         }
+    },
+    "#settings_button":
+     {
+         "images":
+         {
+             "normal_image":
+             {
+             "path": "data/gui/settings.png"
+             }
+
+         }
+    },
+    "#hp":
+     {
+         "images":
+         {
+             "normal_image":
+             {
+             "path": "data/gui/hp.png"
+             }
+
+         }
+    },
+
+    "#retry_button":
+     {
+         "images":
+         {
+             "normal_image":
+             {
+             "path": "data/gui/retry.png"
+             }
+
+         }
+    }
+}
